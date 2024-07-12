@@ -1,4 +1,4 @@
-# samuelxx
+
 # Introduction
 
 **Protocol Name:** Aave
